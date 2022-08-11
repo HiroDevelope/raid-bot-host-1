@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "node.js": "^0.0.1-security"
+  },
+  "name": "nuova-cartella",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
